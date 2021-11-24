@@ -15,6 +15,7 @@ T14	Material 46 61	uranium dioxide
 T15	Task 244 323	deduce the electrochemical reduction potential, mechanism and reduction pathway
 T16	Material 417 427	oxide ions
 T17	Material 506 519	uranium metal
+T18	Material 550 558	electron
 T19	Material 812 820	O2− ions
 T20	Process 847 863	electroreduction
 T21	Material 885 902	counter electrode

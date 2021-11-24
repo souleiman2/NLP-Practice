@@ -10,7 +10,7 @@ T9	Material 579 587	particle
 T10	Material 706 711	oxide
 T11	Material 742 744	Ti
 T12	Material 616 618	non-Ti
-T13	Material 761 776	18 % Cr ODS alloy
+T13	Material 761 776	18%Cr ODS alloy
 T14	Process 802 818	coarsening rates
 T15	Material 822 833	dispersoids
 T16	Material 865 870	alloy

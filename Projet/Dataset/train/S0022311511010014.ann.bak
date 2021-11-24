@@ -5,5 +5,5 @@ T4	Material 792 875	energetic atoms travel deep into the lattice through channel
 *	Synonym-of T3 T4
 T5	Process 312 325	cascade event
 T6	Material 380 388	Ga atoms
-T7	Material 93 95	Ga-free
+T7	Material 93 95	Ga
 T8	Process 456 473	collision cascade

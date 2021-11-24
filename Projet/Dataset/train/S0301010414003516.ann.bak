@@ -26,6 +26,7 @@ T24	Process 923 955	inter-layer metallic connections
 T25	Material 961 971	substrates
 T26	Material 1002 1012	evaporator
 T27	Material 1059 1076	nitrogen glovebox
+T28	Material 1085 1091	vacuum
 T29	Process 1085 1102	vacuum-deposition
 T30	Material 1132 1141	insulator
 T31	Material 1164 1174	substrates

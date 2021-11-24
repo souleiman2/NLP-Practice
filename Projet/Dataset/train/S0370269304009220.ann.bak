@@ -16,7 +16,7 @@ T16	Process 1249 1268	deformed Lagrangian
 T2	Process 107 123	N=1/2 superspace
 T17	Process 163 212	N=1/2 super-Yang–Mills theory with adjoint matter
 T18	Process 353 369	R-symmetry group
-T19	Process 370 376	SU ( 2 ) R
+T19	Process 370 376	SU(2)R
 R1	Hyponym-of Arg1:T19 Arg2:T18	
 T20	Process 452 471	harmonic superspace
 T21	Process 323 345	singlet representation

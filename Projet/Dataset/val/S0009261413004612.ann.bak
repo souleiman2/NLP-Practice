@@ -6,7 +6,7 @@ T5	Material 300 321	chemical magnetometer
 T6	Process 353 367	magnetic field
 T7	Material 391 407	singlet products
 T8	Material 455 469	chemical yield
-T9	Process 697 715	gs ( B , t ) ≡∂fs ( B , t ) ∂B
+T9	Process 697 715	gs(B,t)≡∂fs(B,t)∂B
 T10	Process 726 760	instantaneous magnetic sensitivity
 R1	Hyponym-of Arg1:T9 Arg2:T10	
 T11	Process 502 522	magnetic sensitivity
