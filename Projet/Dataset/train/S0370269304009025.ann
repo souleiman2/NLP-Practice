@@ -10,5 +10,5 @@ T8	Task 735 802	calculate the properties of nuclear matter as well as finite nuc
 T9	Task 861 884	effective nuclear force
 T10	Process 1117 1141	mean field approximation
 T11	Task 1147 1200	Dirac equation for the quark in infinite quark matter
-T12	Task 1216 1245	(30)iγ·∂−m−Vqs−γ0VqvψQMq(x)=0
+T12	Task 1216 1245	(30)iγ·∂−m−Vqs−γ0VqvψQMq( x ) = 0
 R1	Hyponym-of Arg1:T11 Arg2:T12	
