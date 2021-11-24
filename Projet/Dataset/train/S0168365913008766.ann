@@ -19,7 +19,7 @@ T15	Material 710 713	CpG
 T16	Material 734 742	adjuvant
 R2	Hyponym-of Arg1:T15 Arg2:T16	
 T17	Task 747 777	infectious disease vaccination
-T18	Task 795 826	e development of cancer therapy
+T18	Task 795 826	the development of cancer therapy
 T19	Process 838 849	mouse model
 T20	Material 851 854	CpG
 T21	Process 878 895	induce T helper 1

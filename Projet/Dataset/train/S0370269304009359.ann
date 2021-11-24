@@ -22,8 +22,8 @@ T40	Process 1039 1063	decay to the final state
 T43	Material 1133 1138	meson
 T44	Material 1170 1190	final-state particle
 T45	Material 1197 1217	excited neutral kaon
-T46	Material 1251 1254	K*0
-T47	Material 1276 1280	K¯*0
+T46	Material 1251 1254	K * 0
+T47	Material 1276 1280	K¯ * 0
 T48	Material 1300 1312	vector meson
 T49	Process 1333 1347	decay to ψKsπ0
 T50	Process 1359 1379	measurement of sin2β

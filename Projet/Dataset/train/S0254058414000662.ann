@@ -1,6 +1,5 @@
 T2	Material 35 41	ylides
 T3	Material 52 66	pyrene adducts
-T4	Material 84 90	1,3-DC
 T5	Material 94 118	second pyridinium ylides
 T6	Material 122 141	ylidepyrene adducts
 T7	Material 226 252	HOMOylide–pyrene–LUMOylide
@@ -17,7 +16,7 @@ T17	Material 815 837	ylideC7–ylidepyrene/C2
 T18	Task 871 896	regioisomer conformations
 T19	Process 914 938	theoretical calculations
 T20	Material 953 980	pyrrolidine attached pyrene
-T21	Material 1094 1121	1,3-DC of pyridinium ylides
+T21	Material 1094 1121	of pyridinium ylides
 T22	Process 1078 1083	SWNTs
 T23	Process 1017 1059	formation of the same type of regioisomers
 T24	Material 1047 1059	regioisomers
